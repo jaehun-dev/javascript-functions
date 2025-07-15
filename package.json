@@ -2,11 +2,10 @@
   "name": "javascript-functions",
   "packageManager": "yarn@4.9.2",
   "scripts": {
-    "start": "tsx",
-    "dev": "tsx watch"
+    "test": "vitest"
   },
   "devDependencies": {
-    "tsx": "^4.20.3",
-    "typescript": "^5.8.3"
+    "typescript": "^5.8.3",
+    "vitest": "^3.2.4"
   }
 }
